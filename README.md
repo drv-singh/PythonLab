@@ -21,7 +21,8 @@ Account No.
 Mobile NO.
 Address:
 PIN
-2.Example of Prime generatorPeter wants to generate some prime numbers for his cryptosystem. Help him! Your task is to generate all prime numbers between two given numbers!
+2.Example of Prime generator 
+Peter wants to generate some prime numbers for his cryptosystem. Help him! Your task is to generate all prime numbers between two given numbers!
 
 Input Format
 The input begins with the number t of test cases in a single line (t<=10). In each of the next t lines, there are two numbers m and n separated by a space.
